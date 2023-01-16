@@ -1,9 +1,9 @@
 # DevLinks
 
-## 💻 : Descrição do Projeto
+## 💻 Descrição do Projeto
 <p>Trata-se de um agregador de links para usar como cartão de visitas online.</p>
 
-## 🚀: Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 * HTML e CSS
 * JavaScript
 * GitHub
